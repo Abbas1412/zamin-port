@@ -145,6 +145,11 @@ export const skills = [
         image:
           "https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png",
       },
+      {
+        name: "Vercel",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWvBRldr0qHYB-_UUDqEsXeeVw8Vq7LsePg&s",
+      },
     ],
   },
   {
@@ -234,7 +239,7 @@ export const projects = [
     title: "Beef Image Classification",
     description:
       "Beef Image Classification: Used CNN, TensorFlow/Keras for classification.Alpaca Classification API: Built with Deep Learning (CNN), FastAPI for real-time inference.Animal Clustering: Applied Deep Learning, Unsupervised Learning (K-Means, Autoencoders) for clustering.Image Preprocessing: Utilized OpenCV, PIL, NumPy for resizing and dimensional adjustments.Project Deployment: Managed with Git, GitLab for version control and collaboration.",
-    image:"",
+    image:"https://www.researchgate.net/publication/352408983/figure/fig1/AS:1034950295949313@1623762787502/Samples-of-beef-cuts-images-for-the-TensorFlow-deep-learning-algorithm-A-Rib-steak.png",
     tags: [
       "Python",
       "CNN",
@@ -249,7 +254,7 @@ export const projects = [
     id: 0,
     title: "Trading Bot",
     description:"Designed an automated trading bot using Python, Pandas, and NumPy, integrating with financial APIs like Binance, Alpaca, or Interactive Brokers. The bot utilizes machine learning techniques (Reinforcement Learning, LSTMs) and technical indicators (RSI, MACD, Bollinger Bands) to analyze market trends and execute trades. Implemented risk management strategies such as stop-loss and position sizing. The bot is planned to be deployed as a paid subscription service, offering real-time trade execution",
-    image:"",
+    image:"https://public.bnbstatic.com/image/cms/blog/20230808/b921f7b1-e56b-4086-b450-6a34f04da9fd",
     tags: [
       "Python",
       "NumPy",
@@ -271,7 +276,7 @@ export const projects = [
     title: "URL Shortner With Fast Api",
     description:
       "Developed a URL shortener using FastAPI, allowing users to shorten long URLs, track usage statistics, and retrieve original links. The project includes API endpoints for creating, retrieving, and analyzing short URLs.",
-    image:"",
+    image:"https://blog.templatetoaster.com/wp-content/uploads/2020/11/Best-URL-Shortener-Services-Twitter.png",
     tags: [
       "Python",
       "FastApi",

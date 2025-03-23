@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Muhammad Mehdi</Logo>
+        <Logo>Zamin Abbas</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -101,10 +101,10 @@ function Footer() {
           <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
-          <h4 className='mt-20'>+92-315-9562983</h4>
+          <h4 className='mt-20'>+92-344-2640947</h4>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2025 Mehdi. All rights reserved.
+          &copy; 2025 Zamin. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
